@@ -1,0 +1,501 @@
+query,category,difficulty
+Where is my order?,Order Tracking,Easy
+Track my order,Order Tracking,Easy
+Where is my package?,Order Tracking,Easy
+Shipment status,Order Tracking,Easy
+Order delivery update,Order Tracking,Easy
+Track shipment,Order Tracking,Easy
+Delivery ETA,Order Tracking,Easy
+Expected delivery date,Order Tracking,Easy
+Has my order shipped?,Order Tracking,Medium
+Order progress,Order Tracking,Medium
+Track order #1001,Order Tracking,Medium
+Current shipment status,Order Tracking,Medium
+Delivery tracking,Order Tracking,Medium
+Package progress,Order Tracking,Medium
+When will my order arrive?,Order Tracking,Medium
+Shipping update,Order Tracking,Medium
+Parcel location,Order Tracking,Medium
+Track delivery,Order Tracking,Hard
+Order ETA,Order Tracking,Hard
+Check my order,Order Tracking,Hard
+Where can I find my package?,Order Tracking,Hard
+My package hasn't arrived,Order Tracking,Hard
+Locate my parcel,Order Tracking,Hard
+Track dispatch,Order Tracking,Hard
+Order location,Order Tracking,Hard
+Refund my order,Refund,Easy
+I need a refund,Refund,Easy
+Money back please,Refund,Easy
+Refund request,Refund,Easy
+Return and refund,Refund,Easy
+Refund payment,Refund,Easy
+Refund status,Refund,Easy
+Refund policy,Refund,Easy
+Cancel and refund,Refund,Medium
+Issue refund,Refund,Medium
+Product return,Refund,Medium
+Return item,Refund,Medium
+Refund purchase,Refund,Medium
+Get my money back,Refund,Medium
+Refund eligibility,Refund,Medium
+Refund process,Refund,Medium
+Request refund,Refund,Medium
+Return request,Refund,Hard
+Refund approved?,Refund,Hard
+Refund amount,Refund,Hard
+Refund support,Refund,Hard
+Refund immediately,Refund,Hard
+Return my purchase,Refund,Hard
+Reverse payment,Refund,Hard
+How do refunds work?,Refund,Hard
+Help with cancel order,Cancel Order,Easy
+Question about cancel order,Cancel Order,Easy
+Need assistance with cancel order,Cancel Order,Easy
+How does cancel order work?,Cancel Order,Easy
+Problem with cancel order,Cancel Order,Easy
+Unable to complete cancel order,Cancel Order,Easy
+Can you explain cancel order?,Cancel Order,Easy
+Issue regarding cancel order,Cancel Order,Easy
+Support for cancel order,Cancel Order,Medium
+Guide for cancel order,Cancel Order,Medium
+Urgent cancel order help,Cancel Order,Medium
+Need information about cancel order,Cancel Order,Medium
+Update my cancel order,Cancel Order,Medium
+Check my cancel order,Cancel Order,Medium
+Resolve cancel order issue,Cancel Order,Medium
+Request related to cancel order,Cancel Order,Medium
+Status of cancel order,Cancel Order,Medium
+Modify my cancel order,Cancel Order,Hard
+Unable to access cancel order,Cancel Order,Hard
+Error in cancel order,Cancel Order,Hard
+Questions on cancel order,Cancel Order,Hard
+How can I use cancel order?,Cancel Order,Hard
+Steps for cancel order,Cancel Order,Hard
+Need cancel order support,Cancel Order,Hard
+cancel order assistance,Cancel Order,Hard
+Help with password reset,Password Reset,Easy
+Question about password reset,Password Reset,Easy
+Need assistance with password reset,Password Reset,Easy
+How does password reset work?,Password Reset,Easy
+Problem with password reset,Password Reset,Easy
+Unable to complete password reset,Password Reset,Easy
+Can you explain password reset?,Password Reset,Easy
+Issue regarding password reset,Password Reset,Easy
+Support for password reset,Password Reset,Medium
+Guide for password reset,Password Reset,Medium
+Urgent password reset help,Password Reset,Medium
+Need information about password reset,Password Reset,Medium
+Update my password reset,Password Reset,Medium
+Check my password reset,Password Reset,Medium
+Resolve password reset issue,Password Reset,Medium
+Request related to password reset,Password Reset,Medium
+Status of password reset,Password Reset,Medium
+Modify my password reset,Password Reset,Hard
+Unable to access password reset,Password Reset,Hard
+Error in password reset,Password Reset,Hard
+Questions on password reset,Password Reset,Hard
+How can I use password reset?,Password Reset,Hard
+Steps for password reset,Password Reset,Hard
+Need password reset support,Password Reset,Hard
+password reset assistance,Password Reset,Hard
+Help with account management,Account Management,Easy
+Question about account management,Account Management,Easy
+Need assistance with account management,Account Management,Easy
+How does account management work?,Account Management,Easy
+Problem with account management,Account Management,Easy
+Unable to complete account management,Account Management,Easy
+Can you explain account management?,Account Management,Easy
+Issue regarding account management,Account Management,Easy
+Support for account management,Account Management,Medium
+Guide for account management,Account Management,Medium
+Urgent account management help,Account Management,Medium
+Need information about account management,Account Management,Medium
+Update my account management,Account Management,Medium
+Check my account management,Account Management,Medium
+Resolve account management issue,Account Management,Medium
+Request related to account management,Account Management,Medium
+Status of account management,Account Management,Medium
+Modify my account management,Account Management,Hard
+Unable to access account management,Account Management,Hard
+Error in account management,Account Management,Hard
+Questions on account management,Account Management,Hard
+How can I use account management?,Account Management,Hard
+Steps for account management,Account Management,Hard
+Need account management support,Account Management,Hard
+account management assistance,Account Management,Hard
+Help with shipping,Shipping,Easy
+Question about shipping,Shipping,Easy
+Need assistance with shipping,Shipping,Easy
+How does shipping work?,Shipping,Easy
+Problem with shipping,Shipping,Easy
+Unable to complete shipping,Shipping,Easy
+Can you explain shipping?,Shipping,Easy
+Issue regarding shipping,Shipping,Easy
+Support for shipping,Shipping,Medium
+Guide for shipping,Shipping,Medium
+Urgent shipping help,Shipping,Medium
+Need information about shipping,Shipping,Medium
+Update my shipping,Shipping,Medium
+Check my shipping,Shipping,Medium
+Resolve shipping issue,Shipping,Medium
+Request related to shipping,Shipping,Medium
+Status of shipping,Shipping,Medium
+Modify my shipping,Shipping,Hard
+Unable to access shipping,Shipping,Hard
+Error in shipping,Shipping,Hard
+Questions on shipping,Shipping,Hard
+How can I use shipping?,Shipping,Hard
+Steps for shipping,Shipping,Hard
+Need shipping support,Shipping,Hard
+shipping assistance,Shipping,Hard
+Help with payment,Payment,Easy
+Question about payment,Payment,Easy
+Need assistance with payment,Payment,Easy
+How does payment work?,Payment,Easy
+Problem with payment,Payment,Easy
+Unable to complete payment,Payment,Easy
+Can you explain payment?,Payment,Easy
+Issue regarding payment,Payment,Easy
+Support for payment,Payment,Medium
+Guide for payment,Payment,Medium
+Urgent payment help,Payment,Medium
+Need information about payment,Payment,Medium
+Update my payment,Payment,Medium
+Check my payment,Payment,Medium
+Resolve payment issue,Payment,Medium
+Request related to payment,Payment,Medium
+Status of payment,Payment,Medium
+Modify my payment,Payment,Hard
+Unable to access payment,Payment,Hard
+Error in payment,Payment,Hard
+Questions on payment,Payment,Hard
+How can I use payment?,Payment,Hard
+Steps for payment,Payment,Hard
+Need payment support,Payment,Hard
+payment assistance,Payment,Hard
+Help with invoice,Invoice,Easy
+Question about invoice,Invoice,Easy
+Need assistance with invoice,Invoice,Easy
+How does invoice work?,Invoice,Easy
+Problem with invoice,Invoice,Easy
+Unable to complete invoice,Invoice,Easy
+Can you explain invoice?,Invoice,Easy
+Issue regarding invoice,Invoice,Easy
+Support for invoice,Invoice,Medium
+Guide for invoice,Invoice,Medium
+Urgent invoice help,Invoice,Medium
+Need information about invoice,Invoice,Medium
+Update my invoice,Invoice,Medium
+Check my invoice,Invoice,Medium
+Resolve invoice issue,Invoice,Medium
+Request related to invoice,Invoice,Medium
+Status of invoice,Invoice,Medium
+Modify my invoice,Invoice,Hard
+Unable to access invoice,Invoice,Hard
+Error in invoice,Invoice,Hard
+Questions on invoice,Invoice,Hard
+How can I use invoice?,Invoice,Hard
+Steps for invoice,Invoice,Hard
+Need invoice support,Invoice,Hard
+invoice assistance,Invoice,Hard
+Help with billing,Billing,Easy
+Question about billing,Billing,Easy
+Need assistance with billing,Billing,Easy
+How does billing work?,Billing,Easy
+Problem with billing,Billing,Easy
+Unable to complete billing,Billing,Easy
+Can you explain billing?,Billing,Easy
+Issue regarding billing,Billing,Easy
+Support for billing,Billing,Medium
+Guide for billing,Billing,Medium
+Urgent billing help,Billing,Medium
+Need information about billing,Billing,Medium
+Update my billing,Billing,Medium
+Check my billing,Billing,Medium
+Resolve billing issue,Billing,Medium
+Request related to billing,Billing,Medium
+Status of billing,Billing,Medium
+Modify my billing,Billing,Hard
+Unable to access billing,Billing,Hard
+Error in billing,Billing,Hard
+Questions on billing,Billing,Hard
+How can I use billing?,Billing,Hard
+Steps for billing,Billing,Hard
+Need billing support,Billing,Hard
+billing assistance,Billing,Hard
+Help with subscription,Subscription,Easy
+Question about subscription,Subscription,Easy
+Need assistance with subscription,Subscription,Easy
+How does subscription work?,Subscription,Easy
+Problem with subscription,Subscription,Easy
+Unable to complete subscription,Subscription,Easy
+Can you explain subscription?,Subscription,Easy
+Issue regarding subscription,Subscription,Easy
+Support for subscription,Subscription,Medium
+Guide for subscription,Subscription,Medium
+Urgent subscription help,Subscription,Medium
+Need information about subscription,Subscription,Medium
+Update my subscription,Subscription,Medium
+Check my subscription,Subscription,Medium
+Resolve subscription issue,Subscription,Medium
+Request related to subscription,Subscription,Medium
+Status of subscription,Subscription,Medium
+Modify my subscription,Subscription,Hard
+Unable to access subscription,Subscription,Hard
+Error in subscription,Subscription,Hard
+Questions on subscription,Subscription,Hard
+How can I use subscription?,Subscription,Hard
+Steps for subscription,Subscription,Hard
+Need subscription support,Subscription,Hard
+subscription assistance,Subscription,Hard
+Help with coupons,Coupons,Easy
+Question about coupons,Coupons,Easy
+Need assistance with coupons,Coupons,Easy
+How does coupons work?,Coupons,Easy
+Problem with coupons,Coupons,Easy
+Unable to complete coupons,Coupons,Easy
+Can you explain coupons?,Coupons,Easy
+Issue regarding coupons,Coupons,Easy
+Support for coupons,Coupons,Medium
+Guide for coupons,Coupons,Medium
+Urgent coupons help,Coupons,Medium
+Need information about coupons,Coupons,Medium
+Update my coupons,Coupons,Medium
+Check my coupons,Coupons,Medium
+Resolve coupons issue,Coupons,Medium
+Request related to coupons,Coupons,Medium
+Status of coupons,Coupons,Medium
+Modify my coupons,Coupons,Hard
+Unable to access coupons,Coupons,Hard
+Error in coupons,Coupons,Hard
+Questions on coupons,Coupons,Hard
+How can I use coupons?,Coupons,Hard
+Steps for coupons,Coupons,Hard
+Need coupons support,Coupons,Hard
+coupons assistance,Coupons,Hard
+Help with discounts,Discounts,Easy
+Question about discounts,Discounts,Easy
+Need assistance with discounts,Discounts,Easy
+How does discounts work?,Discounts,Easy
+Problem with discounts,Discounts,Easy
+Unable to complete discounts,Discounts,Easy
+Can you explain discounts?,Discounts,Easy
+Issue regarding discounts,Discounts,Easy
+Support for discounts,Discounts,Medium
+Guide for discounts,Discounts,Medium
+Urgent discounts help,Discounts,Medium
+Need information about discounts,Discounts,Medium
+Update my discounts,Discounts,Medium
+Check my discounts,Discounts,Medium
+Resolve discounts issue,Discounts,Medium
+Request related to discounts,Discounts,Medium
+Status of discounts,Discounts,Medium
+Modify my discounts,Discounts,Hard
+Unable to access discounts,Discounts,Hard
+Error in discounts,Discounts,Hard
+Questions on discounts,Discounts,Hard
+How can I use discounts?,Discounts,Hard
+Steps for discounts,Discounts,Hard
+Need discounts support,Discounts,Hard
+discounts assistance,Discounts,Hard
+Help with product availability,Product Availability,Easy
+Question about product availability,Product Availability,Easy
+Need assistance with product availability,Product Availability,Easy
+How does product availability work?,Product Availability,Easy
+Problem with product availability,Product Availability,Easy
+Unable to complete product availability,Product Availability,Easy
+Can you explain product availability?,Product Availability,Easy
+Issue regarding product availability,Product Availability,Easy
+Support for product availability,Product Availability,Medium
+Guide for product availability,Product Availability,Medium
+Urgent product availability help,Product Availability,Medium
+Need information about product availability,Product Availability,Medium
+Update my product availability,Product Availability,Medium
+Check my product availability,Product Availability,Medium
+Resolve product availability issue,Product Availability,Medium
+Request related to product availability,Product Availability,Medium
+Status of product availability,Product Availability,Medium
+Modify my product availability,Product Availability,Hard
+Unable to access product availability,Product Availability,Hard
+Error in product availability,Product Availability,Hard
+Questions on product availability,Product Availability,Hard
+How can I use product availability?,Product Availability,Hard
+Steps for product availability,Product Availability,Hard
+Need product availability support,Product Availability,Hard
+product availability assistance,Product Availability,Hard
+Help with warranty,Warranty,Easy
+Question about warranty,Warranty,Easy
+Need assistance with warranty,Warranty,Easy
+How does warranty work?,Warranty,Easy
+Problem with warranty,Warranty,Easy
+Unable to complete warranty,Warranty,Easy
+Can you explain warranty?,Warranty,Easy
+Issue regarding warranty,Warranty,Easy
+Support for warranty,Warranty,Medium
+Guide for warranty,Warranty,Medium
+Urgent warranty help,Warranty,Medium
+Need information about warranty,Warranty,Medium
+Update my warranty,Warranty,Medium
+Check my warranty,Warranty,Medium
+Resolve warranty issue,Warranty,Medium
+Request related to warranty,Warranty,Medium
+Status of warranty,Warranty,Medium
+Modify my warranty,Warranty,Hard
+Unable to access warranty,Warranty,Hard
+Error in warranty,Warranty,Hard
+Questions on warranty,Warranty,Hard
+How can I use warranty?,Warranty,Hard
+Steps for warranty,Warranty,Hard
+Need warranty support,Warranty,Hard
+warranty assistance,Warranty,Hard
+Help with technical support,Technical Support,Easy
+Question about technical support,Technical Support,Easy
+Need assistance with technical support,Technical Support,Easy
+How does technical support work?,Technical Support,Easy
+Problem with technical support,Technical Support,Easy
+Unable to complete technical support,Technical Support,Easy
+Can you explain technical support?,Technical Support,Easy
+Issue regarding technical support,Technical Support,Easy
+Support for technical support,Technical Support,Medium
+Guide for technical support,Technical Support,Medium
+Urgent technical support help,Technical Support,Medium
+Need information about technical support,Technical Support,Medium
+Update my technical support,Technical Support,Medium
+Check my technical support,Technical Support,Medium
+Resolve technical support issue,Technical Support,Medium
+Request related to technical support,Technical Support,Medium
+Status of technical support,Technical Support,Medium
+Modify my technical support,Technical Support,Hard
+Unable to access technical support,Technical Support,Hard
+Error in technical support,Technical Support,Hard
+Questions on technical support,Technical Support,Hard
+How can I use technical support?,Technical Support,Hard
+Steps for technical support,Technical Support,Hard
+Need technical support support,Technical Support,Hard
+technical support assistance,Technical Support,Hard
+Help with delivery delay,Delivery Delay,Easy
+Question about delivery delay,Delivery Delay,Easy
+Need assistance with delivery delay,Delivery Delay,Easy
+How does delivery delay work?,Delivery Delay,Easy
+Problem with delivery delay,Delivery Delay,Easy
+Unable to complete delivery delay,Delivery Delay,Easy
+Can you explain delivery delay?,Delivery Delay,Easy
+Issue regarding delivery delay,Delivery Delay,Easy
+Support for delivery delay,Delivery Delay,Medium
+Guide for delivery delay,Delivery Delay,Medium
+Urgent delivery delay help,Delivery Delay,Medium
+Need information about delivery delay,Delivery Delay,Medium
+Update my delivery delay,Delivery Delay,Medium
+Check my delivery delay,Delivery Delay,Medium
+Resolve delivery delay issue,Delivery Delay,Medium
+Request related to delivery delay,Delivery Delay,Medium
+Status of delivery delay,Delivery Delay,Medium
+Modify my delivery delay,Delivery Delay,Hard
+Unable to access delivery delay,Delivery Delay,Hard
+Error in delivery delay,Delivery Delay,Hard
+Questions on delivery delay,Delivery Delay,Hard
+How can I use delivery delay?,Delivery Delay,Hard
+Steps for delivery delay,Delivery Delay,Hard
+Need delivery delay support,Delivery Delay,Hard
+delivery delay assistance,Delivery Delay,Hard
+Help with returns,Returns,Easy
+Question about returns,Returns,Easy
+Need assistance with returns,Returns,Easy
+How does returns work?,Returns,Easy
+Problem with returns,Returns,Easy
+Unable to complete returns,Returns,Easy
+Can you explain returns?,Returns,Easy
+Issue regarding returns,Returns,Easy
+Support for returns,Returns,Medium
+Guide for returns,Returns,Medium
+Urgent returns help,Returns,Medium
+Need information about returns,Returns,Medium
+Update my returns,Returns,Medium
+Check my returns,Returns,Medium
+Resolve returns issue,Returns,Medium
+Request related to returns,Returns,Medium
+Status of returns,Returns,Medium
+Modify my returns,Returns,Hard
+Unable to access returns,Returns,Hard
+Error in returns,Returns,Hard
+Questions on returns,Returns,Hard
+How can I use returns?,Returns,Hard
+Steps for returns,Returns,Hard
+Need returns support,Returns,Hard
+returns assistance,Returns,Hard
+Help with exchange,Exchange,Easy
+Question about exchange,Exchange,Easy
+Need assistance with exchange,Exchange,Easy
+How does exchange work?,Exchange,Easy
+Problem with exchange,Exchange,Easy
+Unable to complete exchange,Exchange,Easy
+Can you explain exchange?,Exchange,Easy
+Issue regarding exchange,Exchange,Easy
+Support for exchange,Exchange,Medium
+Guide for exchange,Exchange,Medium
+Urgent exchange help,Exchange,Medium
+Need information about exchange,Exchange,Medium
+Update my exchange,Exchange,Medium
+Check my exchange,Exchange,Medium
+Resolve exchange issue,Exchange,Medium
+Request related to exchange,Exchange,Medium
+Status of exchange,Exchange,Medium
+Modify my exchange,Exchange,Hard
+Unable to access exchange,Exchange,Hard
+Error in exchange,Exchange,Hard
+Questions on exchange,Exchange,Hard
+How can I use exchange?,Exchange,Hard
+Steps for exchange,Exchange,Hard
+Need exchange support,Exchange,Hard
+exchange assistance,Exchange,Hard
+Help with order modification,Order Modification,Easy
+Question about order modification,Order Modification,Easy
+Need assistance with order modification,Order Modification,Easy
+How does order modification work?,Order Modification,Easy
+Problem with order modification,Order Modification,Easy
+Unable to complete order modification,Order Modification,Easy
+Can you explain order modification?,Order Modification,Easy
+Issue regarding order modification,Order Modification,Easy
+Support for order modification,Order Modification,Medium
+Guide for order modification,Order Modification,Medium
+Urgent order modification help,Order Modification,Medium
+Need information about order modification,Order Modification,Medium
+Update my order modification,Order Modification,Medium
+Check my order modification,Order Modification,Medium
+Resolve order modification issue,Order Modification,Medium
+Request related to order modification,Order Modification,Medium
+Status of order modification,Order Modification,Medium
+Modify my order modification,Order Modification,Hard
+Unable to access order modification,Order Modification,Hard
+Error in order modification,Order Modification,Hard
+Questions on order modification,Order Modification,Hard
+How can I use order modification?,Order Modification,Hard
+Steps for order modification,Order Modification,Hard
+Need order modification support,Order Modification,Hard
+order modification assistance,Order Modification,Hard
+Help with customer support,Customer Support,Easy
+Question about customer support,Customer Support,Easy
+Need assistance with customer support,Customer Support,Easy
+How does customer support work?,Customer Support,Easy
+Problem with customer support,Customer Support,Easy
+Unable to complete customer support,Customer Support,Easy
+Can you explain customer support?,Customer Support,Easy
+Issue regarding customer support,Customer Support,Easy
+Support for customer support,Customer Support,Medium
+Guide for customer support,Customer Support,Medium
+Urgent customer support help,Customer Support,Medium
+Need information about customer support,Customer Support,Medium
+Update my customer support,Customer Support,Medium
+Check my customer support,Customer Support,Medium
+Resolve customer support issue,Customer Support,Medium
+Request related to customer support,Customer Support,Medium
+Status of customer support,Customer Support,Medium
+Modify my customer support,Customer Support,Hard
+Unable to access customer support,Customer Support,Hard
+Error in customer support,Customer Support,Hard
+Questions on customer support,Customer Support,Hard
+How can I use customer support?,Customer Support,Hard
+Steps for customer support,Customer Support,Hard
+Need customer support support,Customer Support,Hard
+customer support assistance,Customer Support,Hard
